@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Uniqueeunice123
-- 👀 I’m interested in chemistry and writing
-- 🌱 I’m currently learning coding, music and other subjects at school
-- 💞️ I’m looking to collaborate anything if i get an invite
-- 📫 How to reach me by inviting me
-- 😄 Pronouns: her/she
-- ⚡ Fun fact: i have a youtube channel called @Uniqueeunice123
+- 👋 Hi, I’m @Uniqueeunice123.
+- 👀 I’m interested in chemistry and writing.
+- 🌱 I’m currently learning coding, music and other subjects at school.
+- 💞️ I’m looking to collaborate on anything if i get an invite.
+- 📫 You can reach me by inviting me to your repository.
+- 😄 Pronouns: Her/she.
+- ⚡ Fun fact: I have a youtube channel called @Uniqueeunice123.
 
 <!---
 Uniqueeunice123/Uniqueeunice123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
