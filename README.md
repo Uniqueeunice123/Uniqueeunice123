@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uniqueeunice123.
-- 👀 I’m interested in chemistry, reading, maths, musuc and writing.
+- 👀 I’m interested in chemistry, reading, maths, music and writing.
 - 🌱 I’m currently learning coding, music and other subjects at school.
 - 💞️ I’m looking to collaborate on anything if i get an invite.
 - 📫 You can reach me by inviting me to your repository.
